@@ -8,3 +8,5 @@
 - 📫 How to reach me: Twitter - @tenkus47
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love spending time on my pc
+
+[![Tenzin Kunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenkus47)](https://github.com/tenkus47/github-readme-stats)
