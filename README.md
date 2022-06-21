@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Tech related to Frontend Dev.
 - 💬 Ask me about React or any tech-related stuff.
-- 📫 How to reach me: Twitter - @tenkus47
+- 📫 How to reach me: Twitter - @kunsangtenzin67
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love spending time on my pc
 
