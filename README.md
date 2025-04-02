@@ -11,3 +11,10 @@
 [![Tenzin Kunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenkus47&show_icons=true&theme=radical)](https://github.com/tenkus47/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenkus47&layout=compact&theme=radical)](https://github.com/tenkus47/github-readme-stats)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tenkus47/tenkus47/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tenkus47/tenkus47/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tenkus47/tenkus47/output/github-snake.svg" />
+</picture>
