@@ -4,7 +4,7 @@
 
 ### Hi there 👋 I am Tenzin Kunsang
 
-- 🔭 I'm currently working on Frontend Esukhia.
+- 🔭 I'm currently working on Full stack
 - 🌱 I'm currently learning more about React ,Django ,Python.
 - 🤔 I'm looking for help with Tech related to Frontend Dev.
 - 💬 Ask me about React , Next , Django , Remix , Prisma , Postgres.
