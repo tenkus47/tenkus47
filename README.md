@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning more about React ,Django ,Python.
 - 🤔 I'm looking for help with Tech related to Frontend Dev.
 - 💬 Ask me about React , Next , Django , Remix , Prisma , Postgres.
-- 📫 How to reach me: Twitter - @kunsangtenzin67
+- 📫 How to reach me: please Don't
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love spending time on my pc
 
