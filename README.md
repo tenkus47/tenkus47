@@ -29,9 +29,8 @@
 
 <div style="width: 100%; margin-top: 20px; display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-[![Tenzin Kunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenkus47&show_icons=true&theme=radical)](https://github.com/tenkus47/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenkus47&layout=compact&theme=radical)](https://github.com/tenkus47/github-readme-stats)
+
 
 </div>
 
